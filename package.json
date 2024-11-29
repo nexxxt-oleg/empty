@@ -43,6 +43,6 @@
 		"webpack-stream": "^7.0.0"
 	},
 	"dependencies": {
-		//"just-validate": "^4.2.0"
+
 	}
 }
